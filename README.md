@@ -127,6 +127,6 @@ git init
 git add .
 git commit -m "Add Uber Clone E2E frontend"
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/TU_REPO_FRONTEND.git
+git remote add origin https://github.com/TU_USUARIO/https://github.com/GG-369/E2E2-Frontend.git
 git push -u origin main
 ```
